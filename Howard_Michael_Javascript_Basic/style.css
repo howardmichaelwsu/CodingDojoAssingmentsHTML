@@ -1,0 +1,19 @@
+* {
+	padding: 0;
+	margin: 0;
+    }
+.container {
+        background-color: darkblue;
+        overflow: hidden;
+    }
+
+.title {
+    background-color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 970px;
+    float: left;
+    display: inline;
+    padding: 10px;
+    color: silver;
+    border-radius: 10px;
+}
